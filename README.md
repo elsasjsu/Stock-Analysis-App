@@ -1,2 +1,18 @@
 # Stock-Analysis-App
-By processing the historical stock data, profit/loss reports can be generated. An embedded database management system will allow users to save and retrieve stock data. The system will use the Python libraries to create charts and get historical stock data from web sites. Students will learn how to use the GitHub platform for their project.
+The Stock Analysis App is a Python-based tool that allows users to retrieve, visualize, and analyze historical stock data. It uses web scraping and data visualization techniques to help users make informed decisions based on past performance trends.
+
+## 🛠️ Tools Used
+
+- Python
+- Pandas
+- Matplotlib / Plotly
+- BeautifulSoup
+- Selenium
+- Jupyter Notebook
+
+## 📊 Key Features
+
+- Retrieves historical stock prices via web scraping
+- Visualizes trends using line charts and moving averages
+- Calculates daily returns and volatility
+- User input for selecting stock ticker and date range
